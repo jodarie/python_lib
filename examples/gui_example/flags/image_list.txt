@@ -1,0 +1,28 @@
+1,Afghanistan,afghanistan.gif
+2,Albania,albania.gif
+3,Algeria,algeria.gif
+4,Andorra,andorra.gif
+5,Angola,angola.gif
+6,Antigua and Barbuda,antigua_and_barbuda.gif
+7,Argentina,argentina.gif
+8,Armenia,armenia.gif
+9,Australia,australia.gif
+10,Austria,austria.gif
+11,Azerbaijan,azerbaijan.gif
+12,Bahamas,bahamas.gif
+13,Bahrain,bahrain.gif
+14,Bangladesh,bangladesh.gif
+15,Barbados,barbados.gif
+16,Belarus,belarus.gif
+17,Belgium,belgium.gif
+18,Belize,belize.gif
+19,Benin,benin.gif
+20,Bhutan,bhutan.gif
+21,Bolivia,bolivia.gif
+22,Bosnia and Herzegovina,bosnia_and_herzegovina.gif
+23,Botswana,botswana.gif
+24,Brazil,brazil.gif
+25,Brunei,brunei.gif
+26,Bulgaria,bulgaria.gif
+27,Burkina Faso,burkina_faso.gif
+28,Burundi,burundi.gif
